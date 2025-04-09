@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Tool-20 | Image Compression Tool</title>
-  <meta name="google-adsense-account" content="ca-pub-1234567890123456">
+  <meta name="google-adsense-account" content="ca-am-pub-8773480799818158">
   <style>
     body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #fff; }
     header { background: #333; color: #fff; padding: 15px; position: relative; }
@@ -18,7 +18,7 @@
     .preview img { max-width: 200px; max-height: 200px; object-fit: contain; border: 1px solid #ccc; padding: 5px; }
     .actions { margin: 20px; text-align: center; }
   </style>
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1234567890123456" crossorigin="anonymous"></script>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=-ca-pub-8773480799818158crossorigin="anonymous"></script>
 </head>
 <body>
   <header>
@@ -28,8 +28,8 @@
   <!-- Ad Unit Top -->
   <ins class="adsbygoogle"
        style="display:block; text-align:center;"
-       data-ad-client="ca-pub-1234567890123456"
-       data-ad-slot="9876543210"
+       data-ad-client="9055111364"
+       data-ad-slot="8773480799818158"
        data-ad-format="auto"
        data-full-width-responsive="true"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
@@ -51,8 +51,8 @@
   <!-- Ad Unit Bottom -->
   <ins class="adsbygoogle"
        style="display:block; text-align:center; margin: 20px auto;"
-       data-ad-client="ca-pub-1234567890123456"
-       data-ad-slot="1234567890"
+       data-ad-client="ca-app-pub-9354903383"
+       data-ad-slot="9055111364"
        data-ad-format="auto"
        data-full-width-responsive="true"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
