@@ -34,7 +34,7 @@
   <!-- Ad Unit Top -->
   <ins class="adsbygoogle"
        style="display:block; text-align:center;"
-       data-ad-client="8773480799818158"
+       data-ad-client="ca-app-pub-8773480799818158"
        data-ad-slot="5072843171"
        data-ad-format="auto"
        data-full-width-responsive="true"></ins>
