@@ -34,8 +34,8 @@
   <!-- Ad Unit Top -->
   <ins class="adsbygoogle"
        style="display:block; text-align:center;"
-       data-ad-client="9055111364"
-       data-ad-slot="8773480799818158"
+       data-ad-client="8773480799818158"
+       data-ad-slot="5072843171"
        data-ad-format="auto"
        data-full-width-responsive="true"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
@@ -57,8 +57,8 @@
   <!-- Ad Unit Bottom -->
   <ins class="adsbygoogle"
        style="display:block; text-align:center; margin: 20px auto;"
-       data-ad-client="ca-app-pub-9354903383"
-       data-ad-slot="9055111364"
+       data-ad-client="ca-app-pub-8773480799818158"
+       data-ad-slot="5072843171"
        data-ad-format="auto"
        data-full-width-responsive="true"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
